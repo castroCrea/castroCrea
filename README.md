@@ -3,6 +3,8 @@
 <!--
 **castroCrea/castroCrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![CastroCrea's github stats](https://github-readme-stats.vercel.app/api?username=castroCrea&count_private=true&show_icons=true&theme=radical)
+
 https://github-readme-stats.vercel.app/api?username=castroCrea&count_private=true&show_icons=true&theme=radical
 
 Here are some ideas to get you started:
