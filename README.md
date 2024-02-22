@@ -1,6 +1,7 @@
 
 # Hi 👋 I am Paolo! 
-I am a software developer and product engineer, co-founder and CTO at [Lazy.so](https://lazy.so/), where I specialize in solving complex productivity and Mac OS problems using cutting-edge technology and tools.
+I am a software developer and product engineer, where I specialize in solving complex productivity and Mac OS problems using cutting-edge technology and tools.
+Ex co-founder and CTO at [Lazy.so](https://lazy.so/).
 
 - 🌐 Visit my [portfolio website](https://castrocrea.com/) for more information and to get in touch.
 - ✍️ Follow me on [Medium]([https://pr2tik1.medium.com/](https://medium.com/@paolo.c) for more written content.
