@@ -4,7 +4,7 @@ I am a software developer and product engineer, where I specialize in solving co
 Ex co-founder and CTO at [Lazy.so](https://lazy.so/).
 
 - 🌐 Visit my [portfolio website](https://castrocrea.com/) for more information and to get in touch.
-- ✍️ Follow me on [Medium]([https://pr2tik1.medium.com/](https://medium.com/@paolo.c) for more written content.
+- ✍️ Follow me on [Medium](https://medium.com/@paolo.c) for more written content.
 - 🐦 On [X](https://twitter.com/Pao_Cto)
 
 --- 
